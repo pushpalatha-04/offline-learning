@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Which part of the plant makes food?", "options": ["Root", "Stem", "Leaf", "Flower"], "answer": 2 },
+    { "question": "What do we get from the sun?", "options": ["Water", "Heat and Light", "Rain", "Air"], "answer": 1 },
+    { "question": "Which animal lives in water?", "options": ["Lion", "Elephant", "Fish", "Monkey"], "answer": 2 },
+    { "question": "What is the main source of water?", "options": ["Sun", "Moon", "Rain", "Stars"], "answer": 2 },
+    { "question": "How many legs does an insect have?", "options": ["4", "8", "2", "6"], "answer": 3 },
+    { "question": "Which is a domestic animal?", "options": ["Tiger", "Elephant", "Horse", "Bear"], "answer": 2 },
+    { "question": "What happens to water when it is heated?", "options": ["It becomes ice", "It becomes steam", "It becomes soil", "Nothing"], "answer": 1 },
+    { "question": "Which direction does the sun rise?", "options": ["West", "South", "North", "East"], "answer": 3 },
+    { "question": "Which of these is a non-living thing?", "options": ["Dog", "Tree", "Chair", "Bird"], "answer": 2 },
+    { "question": "What do bees collect from flowers?", "options": ["Water", "Mud", "Nectar", "Leaves"], "answer": 2 }
+  ]
+}

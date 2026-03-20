@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is the SI unit of electric current?", "options": ["Volt", "Watt", "Ampere", "Ohm"], "answer": 2 },
+    { "question": "Which part of the brain controls balance?", "options": ["Cerebrum", "Medulla", "Cerebellum", "Pons"], "answer": 2 },
+    { "question": "What is the process of water changing from liquid to gas called?", "options": ["Condensation", "Evaporation", "Precipitation", "Transpiration"], "answer": 1 },
+    { "question": "What is biodiversity?", "options": ["Single species in an area", "Variety of life forms in an area", "A type of chemical", "A farming method"], "answer": 1 },
+    { "question": "Which blood cells help fight infection?", "options": ["Red blood cells", "Platelets", "Plasma", "White blood cells"], "answer": 3 },
+    { "question": "What is the greenhouse effect?", "options": ["A method of farming in greenhouses", "Warming of Earth due to trapped gases", "Cooling of the Earth", "A type of weather"], "answer": 1 },
+    { "question": "What is the full form of DNA?", "options": ["Deoxyribose Nucleic Acid", "Deoxyribonucleic Acid", "Di-Nitrogen Acid", "Dioxide Nucleic Atom"], "answer": 1 },
+    { "question": "Which layer of the atmosphere protects us from UV rays?", "options": ["Troposphere", "Stratosphere", "Ozone layer", "Ionosphere"], "answer": 2 },
+    { "question": "What does a barometer measure?", "options": ["Temperature", "Humidity", "Wind speed", "Atmospheric pressure"], "answer": 3 },
+    { "question": "Which country has the largest population in the world?", "options": ["USA", "Russia", "India", "China"], "answer": 2 }
+  ]
+}

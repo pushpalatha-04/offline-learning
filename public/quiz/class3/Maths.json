@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is 123 + 456?", "options": ["579", "580", "589", "569"], "answer": 0 },
+    { "question": "What is 200 - 75?", "options": ["115", "135", "125", "145"], "answer": 2 },
+    { "question": "What is 6 × 7?", "options": ["40", "42", "44", "48"], "answer": 1 },
+    { "question": "What is 56 ÷ 8?", "options": ["6", "8", "7", "9"], "answer": 2 },
+    { "question": "What is the perimeter of a square with side 5 cm?", "options": ["10 cm", "25 cm", "15 cm", "20 cm"], "answer": 3 },
+    { "question": "Which fraction is greater: 1/2 or 1/4?", "options": ["1/4", "1/2", "They are equal", "Cannot say"], "answer": 1 },
+    { "question": "How many grams make 1 kilogram?", "options": ["10", "100", "10000", "1000"], "answer": 3 },
+    { "question": "What is 9 × 9?", "options": ["81", "72", "63", "90"], "answer": 0 },
+    { "question": "What is the place value of 7 in 374?", "options": ["Ones", "Hundreds", "Thousands", "Tens"], "answer": 3 },
+    { "question": "What is 500 + 300 + 20 + 4?", "options": ["8024", "5324", "824", "834"], "answer": 2 }
+  ]
+}

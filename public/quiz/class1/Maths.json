@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is 2 + 3?", "options": ["4", "5", "6", "7"], "answer": 1 },
+    { "question": "What is 5 - 2?", "options": ["2", "4", "3", "1"], "answer": 2 },
+    { "question": "How many sides does a triangle have?", "options": ["2", "4", "3", "5"], "answer": 2 },
+    { "question": "What comes after 9?", "options": ["11", "8", "7", "10"], "answer": 3 },
+    { "question": "What is 1 + 1?", "options": ["3", "2", "1", "4"], "answer": 1 },
+    { "question": "How many days are in a week?", "options": ["5", "6", "7", "8"], "answer": 2 },
+    { "question": "What is 4 + 4?", "options": ["6", "7", "9", "8"], "answer": 3 },
+    { "question": "Which number is the biggest?", "options": ["3", "7", "1", "5"], "answer": 1 },
+    { "question": "How many months are in a year?", "options": ["10", "11", "13", "12"], "answer": 3 },
+    { "question": "What is 10 - 5?", "options": ["4", "6", "5", "3"], "answer": 2 }
+  ]
+}

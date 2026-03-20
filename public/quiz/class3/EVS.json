@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is the function of roots in a plant?", "options": ["Make food", "Absorb water and minerals", "Make seeds", "Produce flowers"], "answer": 1 },
+    { "question": "Which gas do plants release during photosynthesis?", "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"], "answer": 2 },
+    { "question": "What is the biggest planet in our solar system?", "options": ["Earth", "Saturn", "Mars", "Jupiter"], "answer": 3 },
+    { "question": "Which organ pumps blood in the human body?", "options": ["Lungs", "Brain", "Heart", "Liver"], "answer": 2 },
+    { "question": "What are the three states of water?", "options": ["Solid, Liquid, Vapour", "Ice, Rain, Cloud", "Cold, Warm, Hot", "River, Sea, Rain"], "answer": 0 },
+    { "question": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Mercury"], "answer": 1 },
+    { "question": "What causes day and night?", "options": ["Movement of the moon", "Rotation of the Earth", "Revolution of the Earth", "Movement of the sun"], "answer": 1 },
+    { "question": "Which is the largest ocean?", "options": ["Atlantic", "Indian", "Arctic", "Pacific"], "answer": 3 },
+    { "question": "What do carnivorous animals eat?", "options": ["Plants", "Both plants and animals", "Only meat", "Fruits"], "answer": 2 },
+    { "question": "Which vitamin do we get from sunlight?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 3 }
+  ]
+}

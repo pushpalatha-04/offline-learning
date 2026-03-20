@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Identify the pronoun: 'She gave him the book.'", "options": ["gave", "book", "She", "the"], "answer": 2 },
+    { "question": "What is the future tense of 'write'?", "options": ["wrote", "written", "will write", "writing"], "answer": 2 },
+    { "question": "What is the synonym of 'enormous'?", "options": ["tiny", "huge", "thin", "short"], "answer": 1 },
+    { "question": "Choose the adverb: 'She sings beautifully.'", "options": ["She", "sings", "beautifully", "none"], "answer": 2 },
+    { "question": "What is a simile?", "options": ["Comparing using like or as", "A rhyming word", "A naming word", "An action word"], "answer": 0 },
+    { "question": "Which sentence is in passive voice?", "options": ["Ram ate the mango.", "The mango was eaten by Ram.", "Ram eats the mango.", "Ram is eating the mango."], "answer": 1 },
+    { "question": "What is the antonym of 'ancient'?", "options": ["old", "modern", "weak", "slow"], "answer": 1 },
+    { "question": "Fill in: 'Neither Ram nor Sita ___ coming.'", "options": ["are", "is", "were", "have"], "answer": 1 },
+    { "question": "What does 'autobiography' mean?", "options": ["Story of a car", "Life story written by someone else", "Story of your own life written by yourself", "Story of animals"], "answer": 2 },
+    { "question": "Which is a preposition?", "options": ["run", "quickly", "under", "happy"], "answer": 2 }
+  ]
+}

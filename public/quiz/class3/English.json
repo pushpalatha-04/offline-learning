@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Which sentence uses a noun correctly?", "options": ["She runs fast.", "The book is on the table.", "He jumped high.", "They sang well."], "answer": 1 },
+    { "question": "What is the past tense of 'run'?", "options": ["runned", "running", "ran", "runs"], "answer": 2 },
+    { "question": "Choose the adjective: 'The tall boy plays cricket.'", "options": ["boy", "plays", "tall", "cricket"], "answer": 2 },
+    { "question": "What punctuation ends a question?", "options": [".", "!", "?", ","], "answer": 2 },
+    { "question": "What is the antonym of 'brave'?", "options": ["strong", "cowardly", "bold", "fearless"], "answer": 1 },
+    { "question": "Which is a compound word?", "options": ["happy", "running", "butterfly", "slowly"], "answer": 2 },
+    { "question": "What is the synonym of 'begin'?", "options": ["end", "stop", "finish", "start"], "answer": 3 },
+    { "question": "Fill in: 'She ___ singing yesterday.'", "options": ["is", "was", "are", "were"], "answer": 1 },
+    { "question": "How many syllables in 'elephant'?", "options": ["2", "4", "3", "1"], "answer": 2 },
+    { "question": "What is the plural of 'child'?", "options": ["childs", "childes", "children", "childrens"], "answer": 2 }
+  ]
+}

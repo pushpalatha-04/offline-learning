@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is 4567 + 2345?", "options": ["6802", "6912", "6912", "6912"], "answer": 1 },
+    { "question": "What is 8000 - 3456?", "options": ["4454", "4544", "4644", "4534"], "answer": 1 },
+    { "question": "What is 24 × 15?", "options": ["350", "360", "370", "340"], "answer": 1 },
+    { "question": "What is 144 ÷ 12?", "options": ["11", "13", "14", "12"], "answer": 3 },
+    { "question": "What is the area of a rectangle 6 cm × 4 cm?", "options": ["20 sq cm", "24 sq cm", "10 sq cm", "48 sq cm"], "answer": 1 },
+    { "question": "What is LCM of 4 and 6?", "options": ["24", "12", "6", "8"], "answer": 1 },
+    { "question": "What is 3/4 + 1/4?", "options": ["4/8", "1", "3/8", "2/4"], "answer": 1 },
+    { "question": "What is 25% of 200?", "options": ["25", "75", "50", "100"], "answer": 2 },
+    { "question": "Round 4,567 to the nearest hundred.", "options": ["4,000", "4,700", "4,500", "4,600"], "answer": 3 },
+    { "question": "What is the Roman numeral for 50?", "options": ["X", "V", "C", "L"], "answer": 3 }
+  ]
+}

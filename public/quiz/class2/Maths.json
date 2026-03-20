@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is 15 + 7?", "options": ["21", "22", "23", "20"], "answer": 1 },
+    { "question": "What is 20 - 8?", "options": ["11", "14", "13", "12"], "answer": 3 },
+    { "question": "What is 3 × 4?", "options": ["10", "11", "12", "14"], "answer": 2 },
+    { "question": "How many sides does a square have?", "options": ["3", "5", "6", "4"], "answer": 3 },
+    { "question": "What is 18 ÷ 2?", "options": ["8", "9", "10", "7"], "answer": 1 },
+    { "question": "What comes before 50?", "options": ["51", "49", "48", "52"], "answer": 1 },
+    { "question": "What is 5 × 5?", "options": ["20", "30", "25", "35"], "answer": 2 },
+    { "question": "Which number is even?", "options": ["7", "9", "11", "8"], "answer": 3 },
+    { "question": "What is 100 - 40?", "options": ["50", "70", "80", "60"], "answer": 3 },
+    { "question": "How many tens are in 70?", "options": ["8", "6", "7", "9"], "answer": 2 }
+  ]
+}

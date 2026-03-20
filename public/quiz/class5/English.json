@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Identify the clause type: 'Because it was raining, we stayed inside.'", "options": ["Simple", "Compound", "Complex", "Compound-Complex"], "answer": 2 },
+    { "question": "What is the gerund in: 'Swimming is her hobby.'", "options": ["is", "her", "hobby", "Swimming"], "answer": 3 },
+    { "question": "Choose the correct form: 'If I ___ a bird, I would fly.'", "options": ["am", "was", "were", "be"], "answer": 2 },
+    { "question": "What is the meaning of the idiom 'Break the ice'?", "options": ["To break something", "To start a conversation", "To freeze something", "To fight"], "answer": 1 },
+    { "question": "Identify the figure of speech: 'The wind whispered through the trees.'", "options": ["Simile", "Metaphor", "Personification", "Alliteration"], "answer": 2 },
+    { "question": "What is a suffix?", "options": ["A letter added before a word", "A letter added after a word", "A root word", "A silent letter"], "answer": 1 },
+    { "question": "Which sentence uses the Oxford comma correctly?", "options": ["I bought apples oranges and grapes.", "I bought apples, oranges and grapes.", "I bought apples, oranges, and grapes.", "I bought, apples oranges and grapes."], "answer": 2 },
+    { "question": "What does 'benevolent' mean?", "options": ["Cruel", "Lazy", "Kind and generous", "Sad"], "answer": 2 },
+    { "question": "Which word is a conjunction?", "options": ["although", "quickly", "beautiful", "table"], "answer": 0 },
+    { "question": "What is an oxymoron?", "options": ["Two words with the same meaning", "A combination of contradictory terms", "A very long word", "A rhyming pair"], "answer": 1 }
+  ]
+}

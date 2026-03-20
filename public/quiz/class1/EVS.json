@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Which planet do we live on?", "options": ["Mars", "Jupiter", "Earth", "Saturn"], "answer": 2 },
+    { "question": "What do plants need to grow?", "options": ["Sand and stone", "Sunlight, water and soil", "Ice and snow", "Only water"], "answer": 1 },
+    { "question": "Which animal gives us milk?", "options": ["Dog", "Cat", "Cow", "Fish"], "answer": 2 },
+    { "question": "What do we breathe in?", "options": ["Carbon dioxide", "Oxygen", "Smoke", "Steam"], "answer": 1 },
+    { "question": "Which is a source of natural light?", "options": ["Bulb", "Candle", "Sun", "Torch"], "answer": 2 },
+    { "question": "How many senses do humans have?", "options": ["3", "4", "6", "5"], "answer": 3 },
+    { "question": "What covers most of the Earth's surface?", "options": ["Land", "Ice", "Water", "Sand"], "answer": 2 },
+    { "question": "Which season has the most rain?", "options": ["Winter", "Summer", "Monsoon", "Spring"], "answer": 2 },
+    { "question": "What do we use to write on a blackboard?", "options": ["Pen", "Pencil", "Chalk", "Marker"], "answer": 2 },
+    { "question": "Which of these is a vegetable?", "options": ["Mango", "Banana", "Carrot", "Apple"], "answer": 2 }
+  ]
+}

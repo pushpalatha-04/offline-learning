@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is the process by which plants make their own food?", "options": ["Respiration", "Transpiration", "Photosynthesis", "Germination"], "answer": 2 },
+    { "question": "What is the unit of measuring force?", "options": ["Metre", "Kilogram", "Newton", "Litre"], "answer": 2 },
+    { "question": "How many bones does a human adult have?", "options": ["200", "305", "206", "156"], "answer": 2 },
+    { "question": "What type of rock is formed from cooling lava?", "options": ["Sedimentary", "Metamorphic", "Igneous", "Limestone"], "answer": 2 },
+    { "question": "Which layer of the Earth is the outermost?", "options": ["Mantle", "Core", "Crust", "Magma"], "answer": 2 },
+    { "question": "What is the speed of light approximately?", "options": ["1,00,000 km/s", "3,00,000 km/s", "10,000 km/s", "30,000 km/s"], "answer": 1 },
+    { "question": "What is the chemical formula of water?", "options": ["CO2", "O2", "H2O", "NaCl"], "answer": 2 },
+    { "question": "Which part of the eye controls the amount of light entering?", "options": ["Retina", "Lens", "Cornea", "Iris"], "answer": 3 },
+    { "question": "What causes earthquakes?", "options": ["Volcanoes", "Heavy rain", "Movement of tectonic plates", "Strong winds"], "answer": 2 },
+    { "question": "What is a food chain?", "options": ["A shop that sells food", "Linking of organisms based on eating habits", "A list of vitamins", "A farming method"], "answer": 1 }
+  ]
+}

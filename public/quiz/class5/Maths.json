@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "What is the HCF of 36 and 48?", "options": ["6", "12", "18", "24"], "answer": 1 },
+    { "question": "What is 2/3 × 3/4?", "options": ["6/12", "5/7", "1/2", "2/7"], "answer": 2 },
+    { "question": "What is the volume of a cube with side 4 cm?", "options": ["16 cu cm", "24 cu cm", "48 cu cm", "64 cu cm"], "answer": 3 },
+    { "question": "What is 12.5% expressed as a fraction?", "options": ["1/4", "1/8", "1/6", "1/5"], "answer": 1 },
+    { "question": "What is the square root of 144?", "options": ["11", "14", "12", "13"], "answer": 2 },
+    { "question": "A train travels 360 km in 4 hours. What is its speed?", "options": ["80 km/h", "100 km/h", "90 km/h", "85 km/h"], "answer": 2 },
+    { "question": "What is the sum of angles in a triangle?", "options": ["90°", "360°", "270°", "180°"], "answer": 3 },
+    { "question": "What is the average of 10, 20, 30, 40, 50?", "options": ["25", "35", "30", "40"], "answer": 2 },
+    { "question": "How many faces does a cube have?", "options": ["4", "8", "6", "12"], "answer": 2 },
+    { "question": "If 30% of a number is 60, what is the number?", "options": ["180", "200", "150", "120"], "answer": 1 }
+  ]
+}

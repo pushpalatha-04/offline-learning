@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Which sentence is correct?", "options": ["She go to school.", "She goes to school.", "She going to school.", "She gone to school."], "answer": 1 },
+    { "question": "What is the plural of 'cat'?", "options": ["cates", "cats", "caties", "cat"], "answer": 1 },
+    { "question": "Choose the naming word: 'The bird flew away.'", "options": ["flew", "away", "the", "bird"], "answer": 3 },
+    { "question": "Which word is opposite of 'hot'?", "options": ["warm", "cold", "cool", "fire"], "answer": 1 },
+    { "question": "What does 'happy' mean?", "options": ["sad", "angry", "joyful", "tired"], "answer": 2 },
+    { "question": "Which is a doing word (verb)?", "options": ["apple", "run", "blue", "house"], "answer": 1 },
+    { "question": "Fill in the blank: 'I ___ to school every day.'", "options": ["goes", "going", "go", "gone"], "answer": 2 },
+    { "question": "What is the singular of 'buses'?", "options": ["buse", "buss", "bus", "busse"], "answer": 2 },
+    { "question": "Which word rhymes with 'cat'?", "options": ["dog", "mat", "cup", "pen"], "answer": 1 },
+    { "question": "Which letter is a vowel?", "options": ["b", "e", "c", "d"], "answer": 1 }
+  ]
+}

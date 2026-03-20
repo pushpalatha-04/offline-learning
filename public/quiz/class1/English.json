@@ -1,0 +1,14 @@
+{
+  "questions": [
+    { "question": "Which letter comes after 'A'?", "options": ["B", "C", "D", "E"], "answer": 0 },
+    { "question": "How many vowels are in the English alphabet?", "options": ["3", "5", "7", "4"], "answer": 1 },
+    { "question": "What is the opposite of 'big'?", "options": ["tall", "large", "small", "huge"], "answer": 2 },
+    { "question": "Which word is a fruit?", "options": ["dog", "apple", "chair", "book"], "answer": 1 },
+    { "question": "What sound does a cat make?", "options": ["woof", "moo", "meow", "quack"], "answer": 2 },
+    { "question": "Which of these is a colour?", "options": ["run", "jump", "red", "eat"], "answer": 2 },
+    { "question": "How many letters are in the word 'CAT'?", "options": ["2", "3", "4", "5"], "answer": 1 },
+    { "question": "Which animal can fly?", "options": ["fish", "dog", "bird", "cat"], "answer": 2 },
+    { "question": "What is the first letter of the alphabet?", "options": ["Z", "B", "A", "M"], "answer": 2 },
+    { "question": "Which word means a place to sleep?", "options": ["table", "bed", "chair", "door"], "answer": 1 }
+  ]
+}
